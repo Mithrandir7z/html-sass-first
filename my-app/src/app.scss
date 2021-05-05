@@ -1,0 +1,20 @@
+
+
+
+$brand_primary: #66cc33;
+$brand_secondary: #a52222;
+$brand_p: #352091;
+$color_white: #ffffff;
+
+h1 {
+color: $brand_primary;
+}
+
+button {
+    color: $brand_secondary;
+}
+
+p {
+    background-color: $brand_p;
+    color: $color_white;
+}
